@@ -11,7 +11,8 @@ yaptığım işler:
     "Sea & Port Manager",
     "Full Stack Developer",
     "Barmen & Barista",
-    "Student"
+    "Student",
+    "Discord Bot Dev"
   ]
 
 
