@@ -15,6 +15,8 @@ education:
 
 
 ```
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
+
 ## GitHub Stats
 ![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhat-18&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serhat-18&layout=compact&theme=synthwave)](https://github.com/Serhat-18)
 ## Ecole42 Stats
