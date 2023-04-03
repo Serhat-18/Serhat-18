@@ -23,7 +23,5 @@ yaptığım işler:
 ![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhat-18&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serhat-18&layout=compact&theme=synthwave)](https://github.com/Serhat-18)
 ## Ecole42 Stats
 [![mdora's 42 stats](https://badge42.vercel.app/api/v2/clg05bk9k001108mqrdthmhqm/stats?cursusId=9&coalitionId=piscine)](https://github.com/Serhat-18)
-## Languages
+## Bildiğim Yazılım Dilleri
 ![Langs](https://skillicons.dev/icons?i=html,css,js,php,c,cs,lua,py,c++")
-## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,")
