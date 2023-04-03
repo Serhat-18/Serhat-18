@@ -6,11 +6,12 @@
 isim: Serhat Kaşka
 ikamet: İnebolu / Kastamonu
 meslek: Full Stack Developer
-jobs:
+yaptığım işler:
   [
     "Sea & Port Manager",
-    "Full Stack Developer"
+    "Full Stack Developer",
     "Barmen & Barista",
+    "Student"
   ]
 
 
