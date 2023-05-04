@@ -2,7 +2,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=internetexplorer&logoColor=white&link=link)](https://www.srhdev.xyz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/serhat.lua)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/Serhat-18) 
-```yaml
+```js
 isim: Serhat Kaşka
 ikamet: İnebolu / Kastamonu
 meslek: Full Stack Developer
