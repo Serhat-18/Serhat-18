@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/Serhat-18) 
 ```yaml
 isim: Serhat Kaşka
-ikamet: İnebolu / Kastamonu
+ikamet: İnebolu / Kastamonu / Gebze / İstanbul / Zonguldak / Ankara / Muş / Diyarbakır / Syria
 meslek: Full Stack Developer
 yaptığım işler:
   [
