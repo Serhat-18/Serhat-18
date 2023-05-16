@@ -15,7 +15,7 @@ Merhaba Ben Serhat 👋👋<br>20 yaşındayım ve yazılım mühendisiyim 🤗<
 ![](https://github-profile-trophy.vercel.app/?username=Serhat-18&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://cdn.discordapp.com/attachments/827928307139477585/1108170196650303548/sss.PNG)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Serhat-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
