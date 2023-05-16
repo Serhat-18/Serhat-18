@@ -1,6 +1,7 @@
 # 💫 About Me:
+```yaml
 Merhaba Ben Serhat 👋👋<br>20 yaşındayım ve yazılım mühendisiyim 🤗<br>Bu profil projelerimi insanların fikir alması için paylaştığım bir yer✅<br><br>S.S.S<br><br>Aktif olarak hangi yazlım dilleri ile ilgileniyorsun ❓<br><br>Genel olarak dillerin çoğuyla uğraşmaktayım. 💯<br><br>Ücretli ürünlerin var mı ❓<br><br>Evet discord üzerinden veya websitem üzerinden bunlara ulaşabilirsiniz 💯<br><br>Discord: https://www.dc.srhdev.xyz 💭<br>Website: https://www.srhdev.xyz 💻
-
+```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9R2xdaSNXC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serhat.lua) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@serhat.lua) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCavK2vuBm7KF2ye74KIAEbQ) 
