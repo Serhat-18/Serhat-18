@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba Ben Serhat 👋👋<br>🤗20 Yaşındayım ve yazılım mühendisiyim <br>✅ Projelerimi insanların fikir alması için paylaşmayı severim<br>🎉 2017 Den beridir yazılımda kendimi geliştirmekteyim <br>💝 Eğer sizler projelerimden fikir alıyorsanız bu benim için büyük bir başarıdır<br>
+Hello, I'm Serhat! 👋👋<br>🤗 I'm 20 years old and a software engineer by profession.<br>✅ I love sharing my projects for people to get ideas.<br>🎉 I've been improving myself in software development since 2017.<br>💝 It's a great achievement for me if you get inspiration from my projects.<br>
 
 
 ## 🌐 Socials:
