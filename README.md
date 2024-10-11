@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Serhat! 👋👋<br>🤗 I'm 21 years old and a software engineer by profession.<br>✅ I love sharing my projects for people to get ideas.<br>🎉 I've been improving myself in software development since 2017.<br>💝 It's a great achievement for me if you get inspiration from my projects.<br>
+Hello, I'm Serhat! 👋👋<br>🤗 I'm 22 years old and a software engineer by profession.<br>✅ I love sharing my projects for people to get ideas.<br>🎉 I've been improving myself in software development since 2017.<br>💝 It's a great achievement for me if you get inspiration from my projects.<br>
 
 
 ## 🌐 Socials:
